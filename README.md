@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shafahid&label=Profile%20views&color=0e75b6&style=flat)
 
-**I’m currently pursuing my undergraduate degree in **Computer Science and Engineering** at the **University of Dhaka**.
+### 🎓 I’m currently pursuing my undergraduate degree in **Computer Science and Engineering** at the **University of Dhaka**.
+
 
 ---
 
