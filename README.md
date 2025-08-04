@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shafahid&label=Profile%20views&color=0e75b6&style=flat)
 
-I’m currently pursuing my undergraduate degree in **Computer Science and Engineering** at the **University of Dhaka**.
+**I’m currently pursuing my undergraduate degree in **Computer Science and Engineering** at the **University of Dhaka**.
 
 ---
 
@@ -51,9 +51,10 @@ I’m currently pursuing my undergraduate degree in **Computer Science and Engin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafahid&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafahid&layout=compact&theme=default" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafahid&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shafahid&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" width="45%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafahid&layout=compact&theme=default" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafahid&theme=default" alt="GitHub Streak" width="90%" />
 </p>
