@@ -1,4 +1,4 @@
-# 🕊️ Peace be upon you 😇, I'm Chowdhury Shafahid Rahman
+# Peace be upon you 😇, I'm Chowdhury Shafahid Rahman
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shafahid&label=Profile%20views&color=0e75b6&style=flat)
 
