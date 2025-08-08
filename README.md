@@ -55,8 +55,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafahid&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" width="45%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafahid&layout=compact&theme=default" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shafahid&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" width="45%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafahid&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
