@@ -4,13 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=Shafahid&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-### 🎓 Computer Science & Engineering Undergraduate @ University of Dhaka
+### 🎓 Computer Science & Engineering Undergraduate Student @ University of Dhaka
 
 I am a passionate developer and competitive programmer who loves solving complex algorithmic problems and building scalable software.
 
-- 🧠 **Focusing on:** Data Structures, Algorithms, and Low-level Programming.
-- 🏆 **Competitive Programming:** Active on Codeforces and participating in Hackathons.
-- 🛠️ **Current Projects:** Exploring Web Technologies, Data Science, and Machine Learning tools.
+🧠 Focusing on: Data Structures, Algorithms, and Backend Development.
+🏆 Competitive Programming: Active on Codeforces and online judges.
+🚀 Hackathons: Participating in hackathons to collaborate, build scalable solutions, and apply technical skills in real-world scenarios.
+🛠️ Exploring: Web Development, Data Science, and Machine Learning.
 
 ---
 
