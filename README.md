@@ -39,22 +39,23 @@ I am a passionate developer and competitive programmer who loves solving complex
 ---
 
 
+---
+
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafahid&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=bf91f3" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafahid&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafahid&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafahid&layout=compact&langs_count=8&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shafahid&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafahid&layout=compact&langs_count=8&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafahid&theme=tokyonight" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafahid&theme=tokyonight" width="100%" alt="GitHub Streak" />
 </p>
 
----
 ---
 
 ## 📬 Reach Me
