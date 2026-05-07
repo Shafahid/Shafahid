@@ -9,8 +9,7 @@ I am a passionate developer and competitive programmer who loves solving complex
 
 - 🧠 **Focusing on:** Data Structures, Algorithms, and Low-level Programming.
 - 🏆 **Competitive Programming:** Active on Codeforces and participating in Hackathons.
-- 🛠️ **Current Projects:** Exploring Web Technologies and Data Science tools.
-- ⚡ **Fun Fact:** I enjoy diving deep into Number Theory and Prime properties.
+- 🛠️ **Current Projects:** Exploring Web Technologies, Data Science and Machine Learning tools.
 
 ---
 
