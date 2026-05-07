@@ -11,7 +11,7 @@ I am a passionate developer and competitive programmer who loves solving complex
 * 🧠 **Focusing on:** Data Structures, Algorithms, and Backend Development.
 * 🏆 **Competitive Programming:** Active on Codeforces and online judges.
 * 🚀 **Hackathons:** Participating in hackathons to collaborate, build scalable solutions, and apply technical skills in real-world scenarios.
-* 🛠️ **Exploring:** Backend Development, Agentic Web Applications and Machine Learning.
+* 🛠️ **Exploring:** Backend Systems, Agentic Web Applications and Machine Learning.
 
 ---
 ## 🛠️ Languages & Tools
