@@ -42,7 +42,7 @@ I am a passionate developer and competitive programmer who loves solving complex
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafahid&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafahid&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=bf91f3" width="100%" />
 </p>
 
 <p align="center">
