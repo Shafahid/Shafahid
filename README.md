@@ -6,7 +6,6 @@
 
 ### 🎓 Computer Science & Engineering Undergraduate Student @ University of Dhaka
 
-I am a passionate developer and competitive programmer who loves solving complex algorithmic problems and building scalable software.
 
 * 🧠 **Focusing on:** Data Structures, Algorithms, and Backend Development.
 * 🏆 **Competitive Programming:** Active on Codeforces and online judges.
