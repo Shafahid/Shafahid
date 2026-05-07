@@ -38,21 +38,23 @@ I am a passionate developer and competitive programmer who loves solving complex
 
 ---
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafahid&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shafahid&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafahid&layout=compact&langs_count=8&theme=tokyonight" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafahid&layout=compact&langs_count=8&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafahid&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafahid&theme=tokyonight" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafahid&theme=tokyonight" width="90%" />
-</p>
-
+---
 ---
 
 ## 📬 Reach Me
